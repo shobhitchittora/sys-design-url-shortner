@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/shobhitchittora/sys-design-url-shortner.svg?branch=master)](https://travis-ci.com/shobhitchittora/sys-design-url-shortner)
+
 ## System Design for URL shortner service
 This is a repo used to experiment and think over design desicions when building a URL shortening service. Refet the Design guide for mode details [here](DESIGN-GUIDE.md).
 
