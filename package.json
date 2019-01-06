@@ -1,0 +1,25 @@
+{
+  "name": "sys-design-tiny-url",
+  "version": "1.0.0",
+  "description": "This is a repo used to experiment and think over design desicions when building a URL shortening service. Refet the Design guide for mode details [here](DESIGN-GUIDE.md).",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shobhitchittora/sys-design-url-shortner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shobhitchittora/sys-design-url-shortner/issues"
+  },
+  "homepage": "https://github.com/shobhitchittora/sys-design-url-shortner#readme",
+  "engines": {
+    "node": ">=10.5.0",
+    "npm" : ">=6.0.0" 
+  }
+}
