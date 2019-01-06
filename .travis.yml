@@ -1,4 +1,8 @@
 language: node_js
 node_js:
-  - "iojs"
   - "10"
+
+script:
+  - node src/index.js &
+  - npm test &
+  - npm run bench
